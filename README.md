@@ -91,3 +91,5 @@ sample file :
  - <a href = "https://github.com/akshya408/Customer-Lifetime-Value-Prediction-Model/blob/main/test_koRSKBP.csv">sample file</a>
  
  
+local URL:
+- http://localhost:8501
