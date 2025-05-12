@@ -84,6 +84,7 @@ Horizontal bar chart displaying each feature's contribution to the model
 
 ✅ Progress Bar: Reaches 100% with success message
 
+
 python code :
  - <a href = "https://github.com/akshya408/Customer-Lifetime-Value-Prediction-Model/blob/main/Customer%20Lifetime%20Value%20Prediction%20Model.py">python code</a>
 
@@ -93,3 +94,5 @@ sample file :
  
 local URL:
 - http://localhost:8501
+
+![Predict Customer Value with AI (2)](https://github.com/user-attachments/assets/686d2a94-b5c2-4465-899d-1d531f6e143f)
